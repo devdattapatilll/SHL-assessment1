@@ -1,4 +1,4 @@
-# 🤖 Web-based RAG Tool (formerly TalentLens)
+# Web-based RAG Tool
 
 [![Status](https://img.shields.io/badge/status-operational-brightgreen?style=for-the-badge)](https://img.shields.io/badge/status-operational-brightgreen)
 [![Python](https://img.shields.io/badge/python-3.9+-blue?style=for-the-badge&logo=python)](https://img.shields.io/badge/python-3.9+-blue)
